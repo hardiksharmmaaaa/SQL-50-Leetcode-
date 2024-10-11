@@ -1,5 +1,4 @@
 
-readme_content = """
 # SQL-50 Series Solutions (LeetCode)
 
 Welcome to the **SQL-50 Series Solutions** repository! This repository contains solutions to all the SQL-related problems from the [LeetCode SQL-50 series](https://leetcode.com/problemset/database/) in a structured format.
@@ -16,5 +15,5 @@ The repository is organized by problem number and includes:
 - **SQL Solution**: The SQL query used to solve the problem.
 - **Explanation**: A clear and concise explanation of the solution approach.
 
-### Folder Structure
+![SQL-50](https://miro.medium.com/v2/resize:fit:916/1*qUbNLW6S0VN8bvtwtrnqmg.png)
 
